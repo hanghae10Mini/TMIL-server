@@ -2,9 +2,11 @@ lockfileVersion: 5.4
 
 specifiers:
   json-server: ^0.17.0
+  lowdb: ^1.0.0
 
 dependencies:
   json-server: 0.17.0
+  lowdb: 1.0.0
 
 packages:
 
